@@ -6,13 +6,13 @@
 >
 > Das Modul “Programmiermethoden” wurde im Rahmen der Reakkreditierung
 > im Herbst 2023 durch das kleinere Modul [“Programmieren
-> 2”](https://github.com/Programmiermethoden-CampusMinden/PM-Lecture)
+> 2”](https://github.com/Programmiermethoden-CampusMinden/Prog2-Lecture)
 > ersetzt und kann nicht mehr belegt werden (es werden keine Vorlesungen
 > und keine Praktika mehr für “Programmiermethoden” angeboten).
 >
 > Die Inhalte von “Programmiermethoden” werden hier für Wiederholende
 > weiterhin gepflegt. Das zugehörige Lernmodul finden Sie im [offenen
-> ILIAS-Bereich](https://www.hsbi.de/elearning/goto.php?target=crs_1181185&client_id=FH-Bielefeld)
+> ILIAS-Bereich](https://www.hsbi.de/elearning/goto.php?target=crs_1089782&client_id=FH-Bielefeld)
 > der HSBI.
 >
 > Bis zum Auslaufen der zugehörigen Prüfungsordnungen
@@ -44,7 +44,7 @@
 >
 > Der Termin für die nächste Klausur für “Programmiermethoden” wird über
 > den Prüfplan vom Studierendenservice bekanntgegeben. (vgl. LSF und
-> [Ankündigungen](https://github.com/Programmiermethoden-CampusMinden/PM-Lecture/discussions/categories/announcements))
+> [Ankündigungen](https://github.com/Programmiermethoden-CampusMinden/PM-Lecture-S23/discussions/categories/announcements))
 
 ## Kursbeschreibung
 
@@ -228,4 +228,4 @@ is licensed under [CC BY-SA
 See the [credits](CREDITS.md) for a detailed list of contributing
 projects.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> ce7c7c3 (readme: use simple markdown image (license), 2025-07-24)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> 3293890 (readme: fix some links, 2025-08-06)<br></sub></sup></p></blockquote>

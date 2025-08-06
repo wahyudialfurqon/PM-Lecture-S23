@@ -497,10 +497,10 @@ Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 **Exceptions:**
 
 - ([Fowler 2011](#ref-Fowler2011), p. 58): “The Rule of Three”
-- ([Fowler 2011](#ref-Fowler2011), p. 53)
 - [“356:
   Refactoring”](http://altlasten.lutz.donnerhacke.de/mitarb/lutz/usenet/Fachbegriffe.der.Informatik.html#356)
   by [Andreas Bogk](mailto:andreas@andreas.org) on Lutz Donnerhacke:
   “Fachbegriffe der Informatik”
+- ([Fowler 2011](#ref-Fowler2011), p. 53)
 
 <blockquote><p><sup><sub><strong>Last modified:</strong> 9289c1f (Remove Hugo: remove 'cbox', 2025-04-29)<br></sub></sup></p></blockquote>
