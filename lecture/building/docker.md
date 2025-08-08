@@ -453,7 +453,8 @@ Codespaces](https://github.com/features/codespaces) von GitHub auf.
 >
 > - k2: Unterschied zwischen Containern und VMs
 > - k2: Einsatzgebiete für Container
-> - k2: Container laufen als abgeschottete Prozesse auf dem Host - kein Sandbox-Effekt
+> - k2: Container laufen als abgeschottete Prozesse auf dem Host - kein
+>   Sandbox-Effekt
 > - k3: Container von DockerHub ziehen
 > - k3: Container starten
 > - k3: Eigene Container definieren und bauen
@@ -519,4 +520,4 @@ Codespaces](https://github.com/features/codespaces) von GitHub auf.
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 71232c0 (tooling: shift headings (use h1 as top-level headings), 2025-04-29)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

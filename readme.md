@@ -228,4 +228,4 @@ is licensed under [CC BY-SA
 See the [credits](CREDITS.md) for a detailed list of contributing
 projects.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 3293890 (readme: fix some links, 2025-08-06)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

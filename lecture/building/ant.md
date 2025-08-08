@@ -473,7 +473,8 @@ Apache Ant: [ant.apache.org](https://ant.apache.org/)
 >
 > <summary><strong>✅ Lernziele</strong></summary>
 >
-> - k3: Schreiben einfacher Ant-Skripte mit Abhängigkeiten zwischen den Targets
+> - k3: Schreiben einfacher Ant-Skripte mit Abhängigkeiten zwischen den
+>   Targets
 > - k3: Nutzung von Ant-Filesets (Dateisystemoperationen, Classpath)
 > - k3: Nutzung von Ant-Properties
 > - k3: Ausführen von Ant-Targets aus der IDE heraus
@@ -516,4 +517,4 @@ Apache Ant: [ant.apache.org](https://ant.apache.org/)
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 9289c1f (Remove Hugo: remove 'cbox', 2025-04-29)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

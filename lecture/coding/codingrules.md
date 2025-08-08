@@ -606,10 +606,13 @@ Warnungen oder Fehler beinhalten, die SpotBugs melden würde.
 > <summary><strong>✅ Lernziele</strong></summary>
 >
 > - k2: Erklären verschiedener Coding Conventions
-> - k2: Erklären wichtiger Grundregeln des objektorientierten Programmierens
+> - k2: Erklären wichtiger Grundregeln des objektorientierten
+>   Programmierens
 > - k2: Erklären der Metriken NCSS, McCabe, BEC, DAC
-> - k3: Einhalten der wichtigsten Grundregeln des objektorientierten Programmierens
-> - k3: Einhalten der wichtigsten Coding Conventions (Formatierung, Namen, Metriken)
+> - k3: Einhalten der wichtigsten Grundregeln des objektorientierten
+>   Programmierens
+> - k3: Einhalten der wichtigsten Coding Conventions (Formatierung,
+>   Namen, Metriken)
 > - k3: Nutzung des Tools Spotless (Formatierung des Codes)
 > - k3: Nutzung des Tools Checkstyle (Coding Conventions und Metriken)
 > - k3: Nutzung des Tools SpotBugs (Vermeiden von Anti-Pattern)
@@ -656,4 +659,4 @@ Warnungen oder Fehler beinhalten, die SpotBugs melden würde.
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 71232c0 (tooling: shift headings (use h1 as top-level headings), 2025-04-29)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

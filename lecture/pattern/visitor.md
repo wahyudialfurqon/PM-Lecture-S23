@@ -326,7 +326,7 @@ und `MulExpr` selbst anzustoßen.
 Alternativ könnte auch der Visitor die Traversierung vornehmen. Gerade
 bei der Traversierung von Datenstrukturen ist diese Variante oft von
 Vorteil, da man hier unterschiedliche Traversierungsarten haben möchte
-(Breitensuche vs. Tiefensuche, Pre-Order vs. Inorder vs. Post-Order, …)
+(Breitensuche vs. Tiefensuche, Pre-Order vs. Inorder vs. Post-Order, …)
 und diese elegant in den Visitor verlagern kann.
 
 <p align="right"><a href="https://github.com/Programmiermethoden-CampusMinden/PM-Lecture/blob/master/markdown/pattern/src/visitor/visit/intrav/DemoExpr.java">Beispiel Traversierung intern (in den Knotenklassen): visitor.visit.intrav.DemoExpr</a></p>
@@ -415,7 +415,8 @@ Klassenstruktur
 > <summary><strong>✅ Lernziele</strong></summary>
 >
 > - k2: Aufbau des Visitor-Patterns (Besucher-Entwurfsmusters)
-> - k3: Anwendung des Visitor-Patterns auf konkrete Beispiele, etwa den PM-Dungeon
+> - k3: Anwendung des Visitor-Patterns auf konkrete Beispiele, etwa den
+>   PM-Dungeon
 >
 > </details>
 >
@@ -529,4 +530,4 @@ Klassenstruktur
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 71232c0 (tooling: shift headings (use h1 as top-level headings), 2025-04-29)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

@@ -466,7 +466,8 @@ public class CreditsCalculator {
 >
 > - k3: Erkennen und Vermeiden von Code Smells
 > - k3: Unterscheiden von leicht lesbarem und schwer lesbarem Code
-> - k3: Programmierprinzipien anwenden, um den Code sauberer zu gestalten
+> - k3: Programmierprinzipien anwenden, um den Code sauberer zu
+>   gestalten
 > - k3: Bessere Kommentare schreiben
 >
 > </details>
@@ -530,4 +531,4 @@ Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
 - ([Fowler 2011](#ref-Fowler2011), p. 15)
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 9289c1f (Remove Hugo: remove 'cbox', 2025-04-29)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

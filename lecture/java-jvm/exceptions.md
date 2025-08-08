@@ -231,7 +231,7 @@ try {
 Hier sollte auf die jeweilige Situation eingegangen werden und versucht
 werden, den Fehler zu beheben oder dem Aufrufer geeignet zu melden!
 
-## \_Try_und mehrstufiges *Catch*
+## *Try* und mehrstufiges *Catch*
 
 ``` java
 try {
@@ -643,4 +643,4 @@ Controversy”](https://dev.java/learn/exceptions/unchecked-exception-controvers
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 71232c0 (tooling: shift headings (use h1 as top-level headings), 2025-04-29)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

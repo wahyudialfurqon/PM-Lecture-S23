@@ -337,9 +337,11 @@ Reflection, wähle diese!**
 > <summary><strong>✅ Lernziele</strong></summary>
 >
 > - k2: Probleme beim Einsatz von Reflection
-> - k2: Bedeutung der verschiedenen Exceptions beim Aufruf von Methoden per Reflection
+> - k2: Bedeutung der verschiedenen Exceptions beim Aufruf von Methoden
+>   per Reflection
 > - k3: Inspection von Klassen zur Laufzeit mit Reflection
-> - k3: Einbindung von zur Compilezeit unbekannten Klassen, Aufruf von Konstruktoren und Methoden (mit und ohne Parameter/Rückgabewerte)
+> - k3: Einbindung von zur Compilezeit unbekannten Klassen, Aufruf von
+>   Konstruktoren und Methoden (mit und ohne Parameter/Rückgabewerte)
 >
 > </details>
 >
@@ -415,4 +417,4 @@ Reflection, wähle diese!**
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 9289c1f (Remove Hugo: remove 'cbox', 2025-04-29)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

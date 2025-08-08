@@ -102,8 +102,6 @@ Für die URL sind verschiedene Protokolle möglich, beispielsweise:
 
     ---C---D---E---F---G  master
 
-<p></p>
-
     ./PM-Lecture/  (lokaler Rechner)
 
     ---C---D---E---H  master
@@ -182,15 +180,11 @@ lokalen Branches!
 3.  Mit `git push origin master` eigene Änderungen ins remote Repo
     pushen
 
-<p></p>
-
     https://github.com/Programmiermethoden-CampusMinden/PM-Lecture
 
     ---C---D---E---H---I  master
                 \     /
                  F---G
-
-<p></p>
 
     ./PM-Lecture/  (lokaler Rechner)
 
@@ -432,4 +426,4 @@ Beispiel: `git fetch andi` oder `git push origin master`
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 9d7ab85 (Remove Hugo: remove pandoc escaping on video links, 2025-04-30)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

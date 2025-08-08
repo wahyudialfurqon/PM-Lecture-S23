@@ -410,8 +410,10 @@ Verhaltens
 > - k2: Begriff, Notwendigkeit und Vorgehen des/beim Refactoring
 > - k2: Bedeutung kleiner Schritte beim Refactoring
 > - k2: Bedeutung einer sinnvollen Testsuite beim Refactoring
-> - k2: Refactoring: Nur innere Struktur ändern, nicht äußeres Verhalten!
-> - k3: Anwendung der wichtigsten Refactoring-Methoden: Rename, Extract, Move, Push Up/Pull Down
+> - k2: Refactoring: Nur innere Struktur ändern, nicht äußeres
+>   Verhalten!
+> - k3: Anwendung der wichtigsten Refactoring-Methoden: Rename, Extract,
+>   Move, Push Up/Pull Down
 >
 > </details>
 >
@@ -503,4 +505,4 @@ Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 - ([Fowler 2011](#ref-Fowler2011), p. 58): “The Rule of Three”
 - ([Fowler 2011](#ref-Fowler2011), p. 53)
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 9289c1f (Remove Hugo: remove 'cbox', 2025-04-29)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

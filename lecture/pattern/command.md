@@ -225,7 +225,8 @@ keine weitere Buchhaltung …
 > <summary><strong>✅ Lernziele</strong></summary>
 >
 > - k2: Aufbau des Command-Patterns
-> - k3: Anwendung des Command-Patterns auf konkrete Beispiele, etwa den PM-Dungeon
+> - k3: Anwendung des Command-Patterns auf konkrete Beispiele, etwa den
+>   PM-Dungeon
 >
 > </details>
 >
@@ -295,4 +296,4 @@ keine weitere Buchhaltung …
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 71232c0 (tooling: shift headings (use h1 as top-level headings), 2025-04-29)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

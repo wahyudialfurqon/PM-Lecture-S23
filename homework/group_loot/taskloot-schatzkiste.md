@@ -30,4 +30,4 @@ sich wie eine normale Schatzkiste verhalten und seine Beute preisgeben.
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 39357be (tooling: do not generate beamer slides for readme's and homework, 2025-05-11)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

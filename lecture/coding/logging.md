@@ -305,4 +305,4 @@ angezeigt (ab `INFO` aufwärts)?!
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 9d7ab85 (Remove Hugo: remove pandoc escaping on video links, 2025-04-30)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

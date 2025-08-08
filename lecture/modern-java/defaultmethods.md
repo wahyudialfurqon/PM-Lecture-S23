@@ -322,7 +322,8 @@ Seit Java8: Interfaces mit Implementierung: **Default-Methoden**
 >
 > <summary><strong>✅ Lernziele</strong></summary>
 >
-> - k2: Interfaces mit Default-Methoden, Unterschied zu abstrakten Klassen
+> - k2: Interfaces mit Default-Methoden, Unterschied zu abstrakten
+>   Klassen
 > - k2: Problem der Mehrfachvererbung
 > - k3: Erstellen von Interfaces mit Default-Methoden
 > - k3: Regeln zum Auflösen der Mehrfachvererbung
@@ -384,4 +385,4 @@ Seit Java8: Interfaces mit Implementierung: **Default-Methoden**
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 71232c0 (tooling: shift headings (use h1 as top-level headings), 2025-04-29)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

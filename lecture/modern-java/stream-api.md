@@ -432,13 +432,18 @@ java.util.stream”](https://docs.oracle.com/en/java/javase/17/docs/api/java.bas
 >
 > - k2: Streams speichern keine Daten
 > - k2: Streams verarbeiten die Daten lazy
-> - k2: map() ändert den Typ (und Inhalt) von Objekten im Stream, aber nicht die Anzahl
-> - k2: filter() ändert die Anzahl der Objekte im Stream, aber nicht deren Typ (und Inhalt)
-> - k2: Streams machen ausführlich Gebrauch von den funktionalen Interfaces in java.util.function
-> - k2: Streams sollten nicht in Attributen gehalten oder als Argument von Methoden herumgereicht werden
+> - k2: map() ändert den Typ (und Inhalt) von Objekten im Stream, aber
+>   nicht die Anzahl
+> - k2: filter() ändert die Anzahl der Objekte im Stream, aber nicht
+>   deren Typ (und Inhalt)
+> - k2: Streams machen ausführlich Gebrauch von den funktionalen
+>   Interfaces in java.util.function
+> - k2: Streams sollten nicht in Attributen gehalten oder als Argument
+>   von Methoden herumgereicht werden
 > - k3: Anlegen eines Streams
 > - k3: Verkettung von intermediären Operationen
-> - k3: Durchführung der Berechnung und Abschluss des Streams mit einer terminalen Operation
+> - k3: Durchführung der Berechnung und Abschluss des Streams mit einer
+>   terminalen Operation
 > - k3: Einsatz von flatMap()
 >
 > </details>
@@ -504,4 +509,4 @@ java.util.stream”](https://docs.oracle.com/en/java/javase/17/docs/api/java.bas
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 71232c0 (tooling: shift headings (use h1 as top-level headings), 2025-04-29)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

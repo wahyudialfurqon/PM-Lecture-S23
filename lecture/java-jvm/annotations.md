@@ -498,8 +498,9 @@ beim Verarbeiten von `annotations.C` die folgende Ausgabe:
 > <summary><strong>✅ Lernziele</strong></summary>
 >
 > - k2: Begriff der Annotation erklären können am Beispiel
-> - k3: Anwendung von @Override sowie der Javadoc-Annotationen
-> - k3: Erstellen eigener Annotationen sowie Einstellen der Sichtbarkeit und Verwendbarkeit
+> - k3: Anwendung von `@Override` sowie der Javadoc-Annotationen
+> - k3: Erstellen eigener Annotationen sowie Einstellen der Sichtbarkeit
+>   und Verwendbarkeit
 > - k3: Erstellen eigener einfacher Annotation-Processors
 >
 > </details>
@@ -576,6 +577,6 @@ beim Verarbeiten von `annotations.C` die folgende Ausgabe:
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 71232c0 (tooling: shift headings (use h1 as top-level headings), 2025-04-29)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>
 
 [^1]: Reflection ist Thema einer späteren Vorlesung

@@ -461,8 +461,10 @@ Optionals”](https://dev.java/learn/api/streams/optionals/).
 > <summary><strong>✅ Lernziele</strong></summary>
 >
 > - k2: Optionals sind kein Ersatz für null-Prüfung!
-> - k2: Optionals sollen nicht für Attribute oder Parameter genutzt werden
-> - k2: Es darf kein null zurückgeliefert werden, wenn der Rückgabetyp ein Optional ist
+> - k2: Optionals sollen nicht für Attribute oder Parameter genutzt
+>   werden
+> - k2: Es darf kein null zurückgeliefert werden, wenn der Rückgabetyp
+>   ein Optional ist
 > - k2: Optionals und null sind kein Ersatz für Exception-Handling
 > - k3: Einsatz von Optional in Rückgabewerten
 > - k3: Erzeugen von Optionals mit Optional.ofNullable()
@@ -557,4 +559,4 @@ Optionals”](https://dev.java/learn/api/streams/optionals/).
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 71232c0 (tooling: shift headings (use h1 as top-level headings), 2025-04-29)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

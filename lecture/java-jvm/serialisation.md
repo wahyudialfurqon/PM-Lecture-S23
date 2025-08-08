@@ -234,8 +234,10 @@ Weitere Links:
 >
 > <summary><strong>✅ Lernziele</strong></summary>
 >
-> - k2: Was ist ein Marker-Interface und warum ist dies eine der großen Design-Sünden in Java?
-> - k2: Erklären Sie den Prozess der Serialisierung und De-Serialisierung. Worauf müssen Sie achten?
+> - k2: Was ist ein Marker-Interface und warum ist dies eine der großen
+>   Design-Sünden in Java?
+> - k2: Erklären Sie den Prozess der Serialisierung und
+>   De-Serialisierung. Worauf müssen Sie achten?
 > - k3: Serialisierung von Objekten und Programmzuständen
 > - k3: Serialisierung eigener Klassen und Typen
 >
@@ -310,4 +312,4 @@ Weitere Links:
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 9289c1f (Remove Hugo: remove 'cbox', 2025-04-29)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

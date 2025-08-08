@@ -325,7 +325,9 @@ Multi-Threading auf höherem Level: Thread-Pools und Fork/Join-Framework
 >
 > <summary><strong>✅ Lernziele</strong></summary>
 >
-> - k3: Umgang mit High-Level-Abstraktionen: Lock-Objekten und Conditions, Executor-Interface und Thread-Pools, Fork/Join-Framework, SwingWorker
+> - k3: Umgang mit High-Level-Abstraktionen: Lock-Objekten und
+>   Conditions, Executor-Interface und Thread-Pools,
+>   Fork/Join-Framework, SwingWorker
 >
 > </details>
 >
@@ -382,4 +384,4 @@ Multi-Threading auf höherem Level: Thread-Pools und Fork/Join-Framework
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 71232c0 (tooling: shift headings (use h1 as top-level headings), 2025-04-29)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

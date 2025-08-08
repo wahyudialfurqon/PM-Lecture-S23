@@ -329,10 +329,13 @@ gibt es “*Merge-Requests*” (MR). Bei Github gibt es “*Pull-Requests*”
 >
 > - k2: Git-Workflows für die Zusammenarbeit
 > - k2: Unterschied zwischen einem Pull/Merge und einem Pull/Rebase
-> - k2: Welche Commits werden Bestandteil eines Merge-Requests (und warum)
+> - k2: Welche Commits werden Bestandteil eines Merge-Requests (und
+>   warum)
 > - k3: Einsatz des zentralisierten Workflows
-> - k3: Einsatz des einfachen verteilten Workflows mit unterschiedlichen Repos
-> - k3: Aktualisieren Ihres Clones und Ihres Forks mit Änderungen aus dem blessed Repo
+> - k3: Einsatz des einfachen verteilten Workflows mit unterschiedlichen
+>   Repos
+> - k3: Aktualisieren Ihres Clones und Ihres Forks mit Änderungen aus
+>   dem blessed Repo
 > - k3: Erstellen von Beiträgen zu einem Projekt über Merge-Requests
 > - k3: Aktualisierung von Merge-Requests
 > - k3: Diskussion über den Code in Merge-Requests
@@ -390,4 +393,4 @@ gibt es “*Merge-Requests*” (MR). Bei Github gibt es “*Pull-Requests*”
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 71232c0 (tooling: shift headings (use h1 as top-level headings), 2025-04-29)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

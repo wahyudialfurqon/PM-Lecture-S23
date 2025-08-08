@@ -425,14 +425,21 @@ Komplexität sorgen (das ist dem O-Kalkül aber egal).
 > <summary><strong>✅ Lernziele</strong></summary>
 >
 > - k2: Was ist der Unterschied zwischen Collection\<T\> und List\<T\>?
-> - k2: Was ist der Unterschied zwischen einer List\<T\>, einer Queue\<T\> und einer Set\<T\>?
-> - k2: Nennen Sie charakteristische Merkmale von ArrayList\<T\>, LinkedList\<T\> und Vector\<T\>.
-> - k2: Was ist der Unterschied zwischen einer Queue\<T\> und einem Stack\<T\>?
+> - k2: Was ist der Unterschied zwischen einer List\<T\>, einer
+>   Queue\<T\> und einer Set\<T\>?
+> - k2: Nennen Sie charakteristische Merkmale von ArrayList\<T\>,
+>   LinkedList\<T\> und Vector\<T\>.
+> - k2: Was ist der Unterschied zwischen einer Queue\<T\> und einem
+>   Stack\<T\>?
 > - k2: Was ist eine Map\<K,V\>? Welche Vertreter kennen Sie?
-> - k3: Erklären Sie die ‘Spielregeln’ für die eigene Implementierung von equals().
-> - k3: Erklären Sie die ‘Spielregeln’ für die eigene Implementierung von hashCode().
-> - k3: Erklären Sie die ‘Spielregeln’ für die eigene Implementierung von compareTo().
-> - k3: Wie müssen und wie sollten equals(), hashCode() und compareTo() miteinander arbeiten?
+> - k3: Erklären Sie die ‘Spielregeln’ für die eigene Implementierung
+>   von equals().
+> - k3: Erklären Sie die ‘Spielregeln’ für die eigene Implementierung
+>   von hashCode().
+> - k3: Erklären Sie die ‘Spielregeln’ für die eigene Implementierung
+>   von compareTo().
+> - k3: Wie müssen und wie sollten equals(), hashCode() und compareTo()
+>   miteinander arbeiten?
 >
 > </details>
 >
@@ -473,4 +480,4 @@ Komplexität sorgen (das ist dem O-Kalkül aber egal).
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 71232c0 (tooling: shift headings (use h1 as top-level headings), 2025-04-29)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

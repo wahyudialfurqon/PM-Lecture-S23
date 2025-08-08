@@ -110,7 +110,7 @@ des Factory-Method Entwurfsmusters generiert.
 > “*mobil*” vs. “*nicht daheim*”). Bei diesem Gespräch merkt er
 > beiläufig an, dass es ein Rechner mit “*viel Wumms*” sein könnte oder
 > vielleicht doch besser etwas Kleines, was leise vor sich hin schnurrt
-> (“*viel Wumms*” vs. “*leise schnurrend*”).
+> (“*viel Wumms*” vs. “*leise schnurrend*”).
 >
 > Je nach gewünschter Konfiguration soll ein den oben genannten
 > Auswahlkriterien entsprechender Rechner mit den aus der unten
@@ -192,4 +192,4 @@ des Factory-Method Entwurfsmusters generiert.
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 71232c0 (tooling: shift headings (use h1 as top-level headings), 2025-04-29)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

@@ -233,11 +233,14 @@ Data”](https://dev.java/learn/using-record-to-model-immutable-data/).
 >
 > - k2: Record-Klassen sind final
 > - k2: Record-Klassen haben einen kanonischen Konstruktor
-> - k2: Die Attribute von Record-Klassen sind final und werden automatisch angelegt und über den Konstruktor gesetzt
-> - k2: Die Getter in Record-Klassen haben die Namen und Typen der Komponenten, also keinen Präfix ‘get’
+> - k2: Die Attribute von Record-Klassen sind final und werden
+>   automatisch angelegt und über den Konstruktor gesetzt
+> - k2: Die Getter in Record-Klassen haben die Namen und Typen der
+>   Komponenten, also keinen Präfix ‘get’
 > - k2: Der kanonische Konstruktor kann ergänzt werden
 > - k2: Es können weitere Methoden definiert werden
-> - k2: Record-Klassen können nicht von anderen Klassen erben, können aber Interfaces implementieren
+> - k2: Record-Klassen können nicht von anderen Klassen erben, können
+>   aber Interfaces implementieren
 > - k3: Einsatz von Record-Klassen
 >
 > </details>
@@ -279,4 +282,4 @@ Data”](https://dev.java/learn/using-record-to-model-immutable-data/).
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 71232c0 (tooling: shift headings (use h1 as top-level headings), 2025-04-29)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

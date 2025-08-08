@@ -148,8 +148,8 @@ werden.
 
 ## Wrap-Up
 
-- Generics: Vererbung und Überladen möglich, aber: **Aus “`U extends O`”
-  folgt** nicht\*\* “`A<U> extends A<O>`”\*\*
+- Generics: Vererbung und Überladen möglich, aber: Aus “`U extends O`”
+  folgt **nicht** “`A<U> extends A<O>`”
 
 <!-- -->
 
@@ -234,4 +234,4 @@ werden.
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 9289c1f (Remove Hugo: remove 'cbox', 2025-04-29)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

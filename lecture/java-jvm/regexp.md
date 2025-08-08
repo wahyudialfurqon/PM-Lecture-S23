@@ -405,7 +405,8 @@ Lösung: `([A-Z][a-zA-Z]*)\s\1`
 >
 > <summary><strong>✅ Lernziele</strong></summary>
 >
-> - k1: Wichtigste Methoden von java.util.regex.Pattern und java.util.regex.Matcher
+> - k1: Wichtigste Methoden von java.util.regex.Pattern und
+>   java.util.regex.Matcher
 > - k2: Unterschied zwischen Matcher#find und Matcher#matches
 > - k2: Unterscheidung zwischen greedy und non-greedy Verhalten
 > - k3: Bildung einfacher regulärer Ausdrücke
@@ -507,4 +508,4 @@ Lösung: `([A-Z][a-zA-Z]*)\s\1`
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 9289c1f (Remove Hugo: remove 'cbox', 2025-04-29)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>

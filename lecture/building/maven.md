@@ -236,10 +236,12 @@ Guide](https://maven.apache.org/guides/getting-started/index.html)
 >
 > <summary><strong>✅ Lernziele</strong></summary>
 >
-> - k3: Schreiben einfacher Maven-Skripte zu Übersetzen des Projekts, zum Testen und zum Erzeugen von Jar-Files
+> - k3: Schreiben einfacher Maven-Skripte zu Übersetzen des Projekts,
+>   zum Testen und zum Erzeugen von Jar-Files
 > - k3: Nutzung von Maven-Properties
 > - k3: Einbinden externer Bibliotheken als Dependencies
-> - k3: Ausführen von Maven-Goals aus IDE heraus und Einbindung als Builder
+> - k3: Ausführen von Maven-Goals aus IDE heraus und Einbindung als
+>   Builder
 >
 > </details>
 >
@@ -287,4 +289,4 @@ Guide](https://maven.apache.org/guides/getting-started/index.html)
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 9d7ab85 (Remove Hugo: remove pandoc escaping on video links, 2025-04-30)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>
