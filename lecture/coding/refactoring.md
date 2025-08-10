@@ -502,7 +502,7 @@ Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
   Refactoring”](http://altlasten.lutz.donnerhacke.de/mitarb/lutz/usenet/Fachbegriffe.der.Informatik.html#356)
   by [Andreas Bogk](mailto:andreas@andreas.org) on Lutz Donnerhacke:
   “Fachbegriffe der Informatik”
-- ([Fowler 2011](#ref-Fowler2011), p. 58): “The Rule of Three”
 - ([Fowler 2011](#ref-Fowler2011), p. 53)
+- ([Fowler 2011](#ref-Fowler2011), p. 58): “The Rule of Three”
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> e9b0bb0 (markdown: switch to leaner yaml header (#31), 2025-08-08)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> 02b1db8 (markdown: reformat (#32), 2025-08-10)<br></sub></sup></p></blockquote>
