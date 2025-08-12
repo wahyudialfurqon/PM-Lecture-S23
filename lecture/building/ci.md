@@ -303,7 +303,7 @@ jobs:
   job1:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: actions/setup-java@v3
         with:
           java-version: '17'
@@ -317,7 +317,7 @@ jobs:
     needs: job1
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: actions/setup-java@v3
         with:
           java-version: '17'
@@ -351,7 +351,7 @@ Die Jobs werden unter dem Eintrag `jobs` definiert: `job1`, `job2` und
   aktuellen virtualisierten Ubuntu-Runner ausgeführt werden.
 
   Es wird zunächst das Repo mit Hilfe der Checkout-Action ausgecheckt
-  (`uses: actions/checkout@v4`), das JDK eingerichtet/installiert
+  (`uses: actions/checkout@v5`), das JDK eingerichtet/installiert
   (`uses: actions/setup-java@v3`) und der im Repo enthaltene
   Gradle-Wrapper auf Unversehrtheit geprüft
   (`uses: gradle/wrapper-validation-action@v1`).
@@ -478,4 +478,4 @@ Im Browser in den Repo-Einstellungen arbeiten:
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 02b1db8 (markdown: reformat (#32), 2025-08-10)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> 6af370e (tooling: switch to actions/checkout@v5, 2025-08-12)<br></sub></sup></p></blockquote>

@@ -331,7 +331,7 @@ jobs:
         runs-on: ubuntu-latest
         container: docker://openjdk:17
         steps:
-            - uses: actions/checkout@v4
+            - uses: actions/checkout@v5
             - run: java -version
             - run: javac Hello.java
             - run: java Hello
@@ -520,4 +520,4 @@ Codespaces](https://github.com/features/codespaces) von GitHub auf.
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
-<blockquote><p><sup><sub><strong>Last modified:</strong> 02b1db8 (markdown: reformat (#32), 2025-08-10)<br></sub></sup></p></blockquote>
+<blockquote><p><sup><sub><strong>Last modified:</strong> 6af370e (tooling: switch to actions/checkout@v5, 2025-08-12)<br></sub></sup></p></blockquote>
